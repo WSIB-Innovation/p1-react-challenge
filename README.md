@@ -1,7 +1,5 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. 
 
-Please create a codespace using this template and publish it to your own account. You can then freely use that codespace as a containerized IDE to build your app. 
-
 During the interview, you'll be asked to share your screen and very briefly walk us through your implementation. A mix of code + the live app will be expected.
 
 You do not need to preserve any of the elements or styling seen in the boilerplate app - please prune all unnecessary code / files.
