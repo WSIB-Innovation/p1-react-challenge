@@ -90,6 +90,6 @@ Bonus points for:
 * Thoughtful project structure
 * Error handling for API requests
 * Loading states
-* Recommendations on further enhancements
+* Recommendations for further enhancements
 
 Good luck!
